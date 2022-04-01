@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 29 12:31:43 2022
-
-@author: mrina
 """
 
 # -*- coding: utf-8 -*-
