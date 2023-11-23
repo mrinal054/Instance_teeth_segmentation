@@ -42,7 +42,7 @@ pred_dir = r'.\SMP\prediction'
 gt_obb_txt_dir = r'.\dns-panoramic-images-ivisionlab\instance-segmentation\folds\fold5\obb_mask'
 
 # Save directories
-save_dir_pred = os.path.join(pred_dir, 'pp_v4')
+save_dir_pred = os.path.join(pred_dir, 'postprocessed')
 if not os.path.exists(save_dir_pred): os.makedirs(save_dir_pred)
 
 save_dir_for_colored_label = os.path.join(pred_dir, 'original_colored_prediction') # stores original prediction with colored labels
